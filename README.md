@@ -16,17 +16,18 @@ Fire managers use this data to predict fire behavior and monitor fuels; resource
 
 Facts about RAWS:
 
-Weather data collected by RAWS, such as relative humidity, wind speed, wind direction, air temperature, fuel moisture and temperature, rain, and solar radiation are critical to predicting fire behavior, which is imperative to effective fire management of all kinds (suppression, prescribed burning, AMR, etc.).
-The BLM Remote Sensing Unit maintains about 1,700 RAWS units annually.
-Stations run on a 12-volt battery combined with a 20-watt solar panel.
-RAWS units costs approximately $18,000 to purchase.
-The program has 75 portable units, Incident Remote Automatic Weather Stations (IRAWS) that can be deployed to any incident to augment on-site forecasts.
-IRAWS can be tone activated, meaning a firefighter can key a tone on their handheld radio to hear current weather data.
+- Weather data collected by RAWS, such as relative humidity, wind speed, wind direction, air temperature, fuel moisture and temperature, rain, and solar radiation are critical to predicting fire behavior, which is imperative to effective fire management of all kinds (suppression, prescribed burning, AMR, etc.).
+- The BLM Remote Sensing Unit maintains about 1,700 RAWS units annually.
+- Stations run on a 12-volt battery combined with a 20-watt solar panel.
+- RAWS units costs approximately $18,000 to purchase.
+- The program has 75 portable units, Incident Remote Automatic Weather Stations (IRAWS) that can be deployed to any incident to augment on-site forecasts.
+- IRAWS can be tone activated, meaning a firefighter can key a tone on their handheld radio to hear current weather data.
+
 In this project, we will implement Data Cleaning, Data Visualization, Modelling Preprocessing, and Unsupervised Learning (Clustering) to analyze the differences and the causes of forest fire.
 
-Data:
+Data:  
 .../data/forestfire.csv  
 Code:  
 .../code/ForestFire.ipynb  
 References:  
-.../References  
+.../References   
