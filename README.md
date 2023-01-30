@@ -25,8 +25,8 @@ IRAWS can be tone activated, meaning a firefighter can key a tone on their handh
 In this project, we will implement Data Cleaning, Data Visualization, Modelling Preprocessing, and Unsupervised Learning (Clustering) to analyze the differences and the causes of forest fire.
 
 Data:
-.../data/forestfire.csv
-Code:
-.../code/ForestFire.ipynb
-References:
-.../References
+.../data/forestfire.csv  
+Code:  
+.../code/ForestFire.ipynb  
+References:  
+.../References  
